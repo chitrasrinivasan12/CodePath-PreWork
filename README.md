@@ -7,7 +7,6 @@ Pre-Work for Intro to Mobile Development
 
 <img src="Yhttps://im3.ezgif.com/tmp/ezgif-3-ad332e8c9d54.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
