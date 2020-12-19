@@ -4,7 +4,7 @@
 Pre-Work for Intro to Mobile Development 
 
 ### App Walk-though
-<img src="Yhttps://im3.ezgif.com/tmp/ezgif-3-ad332e8c9d54.gif" width=200><br>
+<img src="https://im3.ezgif.com/tmp/ezgif-3-ad332e8c9d54.gif" width=200><br>
 
 
 ### Required User Stories
